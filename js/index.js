@@ -1,13 +1,13 @@
 const RSS_URL = 'https://www.lemonde.fr/rss/une.xml';
 
-var myHeaders = new Headers();
+$.ajax(RSS_URL, {
+  accepts: {
+    xml: "application/rss+xml"
+  },
 
-var myInit = { method: 'GET',
-               headers: myHeaders,
-               mode: 'cors',
-               cache: 'default' };
+  dataType: "xml",
 
-fetch(RSS_URL)
-  .then(response => response.text())
-  .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
-  .then(data => console.log(data))
+  success: function(data) {
+    console.log(data);
+  }
+});
