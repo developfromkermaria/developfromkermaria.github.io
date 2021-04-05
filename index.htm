@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Essais</title>
-    <link rel="stylesheet" href="style.css"> 
+  <link rel="stylesheet" href="style.css"> 
 <script>
 function loadXMLDoc(filename)
 {
@@ -38,12 +35,12 @@ else if (document.implementation && document.implementation.createDocument)
   xsltProcessor = new XSLTProcessor();
   xsltProcessor.importStylesheet(xsl);
   resultDocument = xsltProcessor.transformToFragment(xml, document);
-  document.getElementById("result-container").appendChild(resultDocument);
+  document.getElementById("example").appendChild(resultDocument);
   }
 }
 </script>
 </head>
 <body onload="displayResult()">
-<div id="result-container" />
+<div id="example" />
 </body>
 </html>
