@@ -1,5 +1,15 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 <xsl:template match="/">
+  <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>What Whatch</title>
+    <link rel="stylesheet" href="./styles.css">   
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="theme-color" content="white">
+</head>
+  <body>
 <h2>My CD Collection</h2>
 <table border="1">
 <tr bgcolor="#9acd32">
@@ -17,5 +27,7 @@
 </tr>
 </xsl:for-each>
 </table>
+  </body>
+    </html>
 </xsl:template>
 </xsl:stylesheet>
