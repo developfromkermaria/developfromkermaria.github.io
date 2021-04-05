@@ -1,24 +1,20 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
-  
 <xsl:template match="/">
 
-<h2>My CD Collection</h2>
-<table border="1">
-<tr bgcolor="#9acd32">
-<th style="text-align:left">Title</th>
-<th style="text-align:left">Artist</th>
-</tr>
+<ul id="result">
 <xsl:for-each select="catalog/cd">
-<tr>
-<td>
-<xsl:value-of select="title"/>
-</td>
-<td>
-<xsl:value-of select="artist"/>
-</td>
-</tr>
+<li>
+    <h2><xsl:value-of select="artist"/></h2>
+    <div class="card-content">
+      <img src="https://i.la-croix.com/x/2021/04/05/1201149334/ministre-linterieur-saisi-prefecture-police-Paris-enquete-administrative_0.jpg"></img>
+      <div class="infos">
+        <p><xsl:value-of select="title"/></p>
+        <p><xsl:value-of select="year"/> ⭐</p>
+      </div>
+    </div>
+  </li>
 </xsl:for-each>
-</table>
+</ul>
 
 </xsl:template>
-</xsl:stylesheet>
+</xsl:stylesheet>>
