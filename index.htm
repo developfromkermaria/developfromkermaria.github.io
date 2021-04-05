@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" href="style.css"> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Essais</title>
+    <link rel="stylesheet" href="style.css"> 
 <script>
 function loadXMLDoc(filename)
 {
@@ -22,7 +25,7 @@ return xhttp.responseXML;
 function displayResult()
 {
 xml = loadXMLDoc("catalog.xml");
-xsl = loadXMLDoc("catalog.xsl");
+xsl = loadXMLDoc("cdcatalog.xsl");
 // code for IE
 if (window.ActiveXObject || xhttp.responseType == "msxml-document")
   {
@@ -35,12 +38,12 @@ else if (document.implementation && document.implementation.createDocument)
   xsltProcessor = new XSLTProcessor();
   xsltProcessor.importStylesheet(xsl);
   resultDocument = xsltProcessor.transformToFragment(xml, document);
-  document.getElementById("example").appendChild(resultDocument);
+  document.getElementById("result-container").appendChild(resultDocument);
   }
 }
 </script>
 </head>
 <body onload="displayResult()">
-<div id="example" />
+<div id="result-container" />
 </body>
-</html>
+</html>>
