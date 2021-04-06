@@ -4,46 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Essais</title>
-    <link rel="stylesheet" href="style.css"> 
-<script>
-function loadXMLDoc(filename)
-{
-if (window.ActiveXObject)
-  {
-  xhttp = new ActiveXObject("Msxml2.XMLHTTP");
-  }
-else
-  {
-  xhttp = new XMLHttpRequest();
-  }
-xhttp.open("GET", filename, false);
-try {xhttp.responseType = "msxml-document"} catch(err) {} // Helping IE11
-xhttp.send("");
-return xhttp.responseXML;
-}
-
-function displayResult()
-{
-xml = loadXMLDoc("catalog.xml");
-xsl = loadXMLDoc("catalog.xsl");
-// code for IE
-if (window.ActiveXObject || xhttp.responseType == "msxml-document")
-  {
-  ex = xml.transformNode(xsl);
-  document.getElementById("result-container").innerHTML = ex;
-  }
-// code for Chrome, Firefox, Opera, etc.
-else if (document.implementation && document.implementation.createDocument)
-  {
-  xsltProcessor = new XSLTProcessor();
-  xsltProcessor.importStylesheet(xsl);
-  resultDocument = xsltProcessor.transformToFragment(xml, document);
-  document.getElementById("result-container").appendChild(resultDocument);
-  }
-}
-</script>
 </head>
-<body onload="displayResult()">
-<div id="result-container" />
+<body>
+    <form action="https://google.com">
+    <input type="submit" value="Go to Google" />
+</form>
 </body>
 </html>
