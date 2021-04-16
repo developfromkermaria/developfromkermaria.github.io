@@ -4,7 +4,7 @@
 <ul id="result">
 <xsl:for-each select="catalog/cd">
 <li>
-    <h2><xsl:value-of select="artist"/></h2>
+    <h2 style="color:white;"><xsl:value-of select="artist"/></h2>
     <div class="card-content">
       <img src="https://i.la-croix.com/x/2021/04/05/1201149334/ministre-linterieur-saisi-prefecture-police-Paris-enquete-administrative_0.jpg"></img>
       <div class="infos">
