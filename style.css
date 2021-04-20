@@ -1,7 +1,4 @@
-@font-face {
-  font-family: "font-1";
-  src: url(./assets/LibreBaskerville-Regular.ttf);
-}
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
 
 * {
   list-style-type: none;
@@ -10,7 +7,7 @@ body {
   background: black;
   color: white;
   text-align: center;
-  font-family: "font-1", cursive;
+  font-family: 'Libre Baskerville', serif;
 }
 
 
