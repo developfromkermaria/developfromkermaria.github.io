@@ -116,6 +116,102 @@ button {
     border-radius: 50%;
     border: 5px solid rgba(221, 221, 221, .897) ;
     overflow: hidden;
+}#music-menu {
+    width: 90%;
+    height: 59px;
+    position: relative;
+    z-index: 3;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+}
+
+#music-menu img{#music-menu {
+    width: 90%;
+    height: 59px;
+    position: relative;
+    z-index: 3;
+    display: flex;#music-menu {
+    width: 90%;
+    height: 59px;
+    position: relative;
+    z-index: 3;
+    display: flex;
+    justify-content: space-around;#music-menu {
+    width: 90%;
+    height: 59px;
+    position: relative;
+    z-index: 3;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+}
+
+#music-menu img{
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+
+}
+    align-items: center;
+    margin: 0 auto;
+}
+
+#music-menu img{#music-menu {
+    width: 90%;
+    height: 59px;
+    position: relative;
+    z-index: 3;
+    display: flex;#music-menu {
+    width: 90%;
+    height: 59px;
+    position: relative;
+    z-index: 3;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+}
+
+#music-menu img{
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+
+}
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+}
+
+#music-menu img{
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+
+}
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+
+}
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+}
+
+#music-menu img{
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+
+}
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+
 }
 
 #music-image img {
@@ -144,4 +240,21 @@ button {
     margin:0;
     font-weight: 400;
     text-align: center;
+}
+
+#music-menu {
+    width: 90%;
+    height: 59px;
+    position: relative;
+    z-index: 3;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+}
+
+#music-menu img{
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
 }
