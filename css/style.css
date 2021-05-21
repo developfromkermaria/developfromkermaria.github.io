@@ -109,7 +109,7 @@ button {
     position: absolute;
     top: -33%;
     left: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%,50%);
     width: 177px;
     height: 177px;
     background-color: #000;
