@@ -258,3 +258,17 @@ button {
     height: 22px;
     cursor: pointer;
 }
+
+#currentTime {
+    position: relative;
+    z-index: 3;
+    padding: 0 12px 5px;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8px;
+}
+
+#currentTime span {
+    font-size: 12px;
+}
