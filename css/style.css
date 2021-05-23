@@ -186,3 +186,32 @@ button {
 #currentTime span {
     font-size: 14px;
 }
+
+.seekslider {
+    width: 110px;
+    height: 2px !important;
+    -webkit-appearance: none;
+    border-radius: 10px;
+    background-color: #fff;
+    z-index: 3;
+    outline: none;
+    position: relative;
+    margin-left: 70px;
+
+}
+
+.seekslider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 10px;
+    height: 10px;
+    background-color: #e62c2f;
+    border-radius: 50%;
+    cursor: pointer;
+    outline: none;
+    transform: scale(1);
+
+}
+
+.seekslider-active::-webkit-slider-thumb {
+    transform: scale(1.2);
+}
