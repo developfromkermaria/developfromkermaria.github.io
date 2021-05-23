@@ -196,7 +196,7 @@ button {
     z-index: 3;
     outline: none;
     position: relative;
-    margin-left: 70px;
+     margin: 0 auto;
 
 }
 
