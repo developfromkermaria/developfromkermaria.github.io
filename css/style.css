@@ -76,6 +76,8 @@ button {
 
 .slider{
     width: 110px;
+    height: 1px !important;
+    -webkit-appearance: none;
     border-radius: 10px;
     background-color: #fff;
     z-index: 100;
@@ -270,5 +272,5 @@ button {
 }
 
 #currentTime span {
-    font-size: 12px;
+    font-size: 14px;
 }
