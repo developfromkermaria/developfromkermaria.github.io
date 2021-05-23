@@ -187,6 +187,12 @@ button {
     font-size: 14px;
 }
 
+#centerseek {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
 .seekslider {
     width: 110px;
     height: 2px !important;
