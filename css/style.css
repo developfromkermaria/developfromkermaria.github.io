@@ -194,7 +194,7 @@ button {
 }
 
 .seekslider {
-    width: 110px;
+    width: 160px;
     height: 2px !important;
     -webkit-appearance: none;
     border-radius: 10px;
