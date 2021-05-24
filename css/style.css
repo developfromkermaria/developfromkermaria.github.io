@@ -237,7 +237,7 @@ button {
 }
 
 .play {
-    width: 60px;
+    width: 70px;
     height: 60px;
     margin: 0 5px;
 }
@@ -269,11 +269,11 @@ button {
     position: absolute;
     top: 30%;
     left: 6%;
-    font-size: 16px;
+    font-size: 20px;
     cursor: pointer;
   }
 
   #repeat img {
-      width: 16px;
-      height: 16px;
+      width: 20px;
+      height: 20px;
   }
