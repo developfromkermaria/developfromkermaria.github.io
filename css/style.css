@@ -253,3 +253,27 @@ button {
     width: 28px;
     height: 28px;
 }
+
+#buttons .like {
+    position: absolute;
+    top: 25%;
+    right: 8%;
+    cursor: pointer;
+}
+
+#buttons .like {
+  color: rgba(255, 255, 255, 0.883);
+}
+
+#buttons .repeat {
+    position: absolute;
+    top: 30%;
+    left: 6%;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  #repeat img {
+      width: 16px;
+      height: 16px;
+  }
