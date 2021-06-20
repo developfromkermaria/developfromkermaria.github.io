@@ -1,0 +1,508 @@
+﻿<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:pa="http://podcastaddict.com" xmlns:podcastRF="http://radiofrance.fr/Lancelot/Podcast#" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
+<channel>
+<title>Le Monde vivant</title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant</link>
+<description>Rendez-vous sur l'application Radio France pour découvrir tous les autres épisodes / Qu'ils soient végétaux, animaux, minéraux ou encore microscopiques, les autres maillons des écosystèmes dont font partie l'être humains sont vénérés ou honnis et nourrissent arts, croyances, légendes. mais aussi le besoin de comprendre. Avec Bruno David.</description>
+<language>fr</language>
+<copyright>Radio France</copyright>
+<lastBuildDate>Sat, 19 Jun 2021 23:32:26 +0200</lastBuildDate>
+<generator>Radio France</generator>
+<image>
+<url>https://cdn.radiofrance.fr/s3/cruiser-production/2020/09/463ea75e-155a-462d-99d8-2ff772482aab/1400x1400_rf_omm_0000026743_ite.jpg</url>
+<title>Le Monde vivant</title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant</link>
+</image>
+<itunes:author>France Culture</itunes:author>
+<itunes:category text="Science">
+<itunes:category text="Nature"/>
+</itunes:category>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://cdn.radiofrance.fr/s3/cruiser-production/2020/09/463ea75e-155a-462d-99d8-2ff772482aab/1400x1400_rf_omm_0000026743_ite.jpg"/>
+<itunes:owner>
+<itunes:email>podcast@radiofrance.com</itunes:email>
+<itunes:name>Radio France</itunes:name>
+</itunes:owner>
+<itunes:subtitle>Le Monde vivant</itunes:subtitle>
+<itunes:summary>Rendez-vous sur l'application Radio France pour découvrir tous les autres épisodes / Qu'ils soient végétaux, animaux, minéraux ou encore microscopiques, les autres maillons des écosystèmes dont font partie l'être humains sont vénérés ou honnis et nourrissent arts, croyances, légendes. mais aussi le besoin de comprendre. Avec Bruno David.</itunes:summary>
+<itunes:new-feed-url>https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_21584.xml</itunes:new-feed-url>
+<pa:new-feed-url>https://radiofrance-podcast.net/podcast09/d4463877-caa3-4507-9399-f5eb00fde027/rss_21584.xml</pa:new-feed-url>
+<podcastRF:originStation>5</podcastRF:originStation>
+<googleplay:block>yes</googleplay:block>
+<item>
+<title>Les goûts de la levure Saccharomyces </title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/les-gouts-de-la-levure-saccharomyces</link>
+<description>durée : 00:03:58 - Le Monde vivant - par : Bruno David - Quel est le point commun entre le pain, la bière, le vin, mais aussi le fromage ? Les Saccharomyces, ces levures ou micro-organismes capables de faire fonctionner leur métabolisme en l'absence d'oxygène et qui donnent le goût aux aliments. - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/7d67a5bc-1e12-47a8-b709-aefd6cf8aee8/21584-18.06.2021-ITEMA_22704013-2021C40927E0096.mp3" length="3834143" type="audio/mpeg"/>
+<guid isPermaLink="false">12b76650-4e0c-41a5-b907-6a9e66da5904</guid>
+<pubDate>Fri, 18 Jun 2021 06:06:44 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0096</podcastRF:magnetothequeID>
+<itunes:title>Les goûts de la levure Saccharomyces </itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>Les,goûts,de,la,levure,Saccharomyces,</itunes:keywords>
+<itunes:subtitle>Les goûts de la levure Saccharomyces </itunes:subtitle>
+<itunes:summary>durée : 00:03:58 - Le Monde vivant - par : Bruno David - Quel est le point commun entre le pain, la bière, le vin, mais aussi le fromage ? Les Saccharomyces, ces levures ou micro-organismes capables de faire fonctionner leur métabolisme en l'absence d'oxygène et qui donnent le goût aux aliments. - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:03:58</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>Pas mafieuse pour un sou, la pieuvre</title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/pas-mafieuse-pour-un-sou-la-pieuvre</link>
+<description>durée : 00:03:58 - Le Monde vivant - par : Bruno David - Elle se déplace à reculons, compte huit tentacules munis de ventouses, ses yeux sphériques ressemblent aux nôtres : il s'agit de la pieuvre. Si elle symbolise la mafia ou toute autre emprise néfaste, "Octopus vulgaris" est en premier lieu un animal craintif, doté d'une intelligence surprenante. - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/5267bcf4-5f22-40ac-a90d-3078c24bcadc/21584-17.06.2021-ITEMA_22702782-2021C40927E0095.mp3" length="3840066" type="audio/mpeg"/>
+<guid isPermaLink="false">84f7a885-5e61-4e04-acdf-29a80bcfae8e</guid>
+<pubDate>Thu, 17 Jun 2021 06:06:45 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0095</podcastRF:magnetothequeID>
+<itunes:title>Pas mafieuse pour un sou, la pieuvre</itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>Pas,mafieuse,pour,un,sou,,la,pieuvre</itunes:keywords>
+<itunes:subtitle>Pas mafieuse pour un sou, la pieuvre</itunes:subtitle>
+<itunes:summary>durée : 00:03:58 - Le Monde vivant - par : Bruno David - Elle se déplace à reculons, compte huit tentacules munis de ventouses, ses yeux sphériques ressemblent aux nôtres : il s'agit de la pieuvre. Si elle symbolise la mafia ou toute autre emprise néfaste, "Octopus vulgaris" est en premier lieu un animal craintif, doté d'une intelligence surprenante. - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:03:58</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>On la coupe en deux, on se la fend, la poire</title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/la-coupe-en-deux-se-la-fend-la-poire</link>
+<description>durée : 00:03:59 - Le Monde vivant - par : Bruno David - C'est un fruit qui nous accompagne depuis le néolithique et qui a fait les gros titres dans les années 1830 : la poire. Il existe actuellement mille variétés de poiriers avec une distinction entre cultivars européens et cultivars asiatiques. - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/0385eb60-7baa-437c-8c97-34258c7bc806/21584-16.06.2021-ITEMA_22701572-2021C40927E0093.mp3" length="3845397" type="audio/mpeg"/>
+<guid isPermaLink="false">3b32f680-1d63-4d05-991a-d8f8ad1fe2cf</guid>
+<pubDate>Wed, 16 Jun 2021 06:06:44 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0093</podcastRF:magnetothequeID>
+<itunes:title>On la coupe en deux, on se la fend, la poire</itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>On,la,coupe,en,deux,,on,se,la,fend,,la,poire</itunes:keywords>
+<itunes:subtitle>On la coupe en deux, on se la fend, la poire</itunes:subtitle>
+<itunes:summary>durée : 00:03:59 - Le Monde vivant - par : Bruno David - C'est un fruit qui nous accompagne depuis le néolithique et qui a fait les gros titres dans les années 1830 : la poire. Il existe actuellement mille variétés de poiriers avec une distinction entre cultivars européens et cultivars asiatiques. - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:03:59</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>On ne lui casse pas trois pattes, au canard</title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/ne-lui-casse-pas-trois-pattes-au-canard</link>
+<description>durée : 00:03:54 - Le Monde vivant - par : Bruno David - Outre qu'il en existe 150 espèces, un canard est également l'ancêtre des fake-news, à savoir une fausse nouvelle et par extension un journal, d'où le très célèbre "Canard enchaîné". - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/bfce378d-accb-41b3-a17b-3a8d5a9f4781/21584-15.06.2021-ITEMA_22700361-2021C40927E0094.mp3" length="3768792" type="audio/mpeg"/>
+<guid isPermaLink="false">2061ebbb-e912-4362-9270-94d0f614db9b</guid>
+<pubDate>Tue, 15 Jun 2021 06:06:40 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0094</podcastRF:magnetothequeID>
+<itunes:title>On ne lui casse pas trois pattes, au canard</itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>On,ne,lui,casse,pas,trois,pattes,,au,canard</itunes:keywords>
+<itunes:subtitle>On ne lui casse pas trois pattes, au canard</itunes:subtitle>
+<itunes:summary>durée : 00:03:54 - Le Monde vivant - par : Bruno David - Outre qu'il en existe 150 espèces, un canard est également l'ancêtre des fake-news, à savoir une fausse nouvelle et par extension un journal, d'où le très célèbre "Canard enchaîné". - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:03:54</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>Un déclin inquiétant, les pollinisateurs</title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/un-declin-inquietant-les-pollinisateurs</link>
+<description>durée : 00:04:06 - Le Monde vivant - par : Bruno David - On estime que la mortalité des abeilles et des bourdons a quadruplé en quelques années. Une donnée inquiétante lorsqu'on sait que 80% des plantes à fleurs sont fécondées par l’intervention d’un animal. - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/32f88269-c462-4aec-be4c-1d6129c75743/21584-14.06.2021-ITEMA_22699084-2021C40927E0092.mp3" length="3966146" type="audio/mpeg"/>
+<guid isPermaLink="false">12012432-e688-40d6-a8f9-34fe46fdb7d0</guid>
+<pubDate>Mon, 14 Jun 2021 06:06:35 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0092</podcastRF:magnetothequeID>
+<itunes:title>Un déclin inquiétant, les pollinisateurs</itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>Un,déclin,inquiétant,,les,pollinisateurs</itunes:keywords>
+<itunes:subtitle>Un déclin inquiétant, les pollinisateurs</itunes:subtitle>
+<itunes:summary>durée : 00:04:06 - Le Monde vivant - par : Bruno David - On estime que la mortalité des abeilles et des bourdons a quadruplé en quelques années. Une donnée inquiétante lorsqu'on sait que 80% des plantes à fleurs sont fécondées par l’intervention d’un animal. - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:04:06</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>Nous savons tout de lui, le chien</title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/nous-savons-tout-de-lui-le-chien</link>
+<description>durée : 00:04:00 - Le Monde vivant - par : Bruno David - Omniprésent dans notre culture et notre vie quotidienne, le chien l'est également dans les expressions de la langue courante : "faire un temps de chien", "avoir un caractère de chien", "une chienne de vie"... autant de formules qui révèlent notre relation ambiguë avec le chien. - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/fdfe3044-4e37-45ed-9cc3-b4a3c1ee8ffe/21584-11.06.2021-ITEMA_22661632-2021C40927E0088.mp3" length="3868448" type="audio/mpeg"/>
+<guid isPermaLink="false">225eec48-d6d5-459c-9e2f-93754e4dc68b</guid>
+<pubDate>Fri, 11 Jun 2021 06:06:46 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0088</podcastRF:magnetothequeID>
+<itunes:title>Nous savons tout de lui, le chien</itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>Nous,savons,tout,de,lui,,le,chien</itunes:keywords>
+<itunes:subtitle>Nous savons tout de lui, le chien</itunes:subtitle>
+<itunes:summary>durée : 00:04:00 - Le Monde vivant - par : Bruno David - Omniprésent dans notre culture et notre vie quotidienne, le chien l'est également dans les expressions de la langue courante : "faire un temps de chien", "avoir un caractère de chien", "une chienne de vie"... autant de formules qui révèlent notre relation ambiguë avec le chien. - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:04:00</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>Une bavarde, la pie </title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/une-bavarde-la-pie</link>
+<description>durée : 00:04:00 - Le Monde vivant - par : Bruno David - Non, la pie ne vole pas et n'est pas plus attirée par les objets brillants que les autres oiseaux. En revanche, il lui arrive de dérober leurs proies à d'autres prédateurs. C'est une espèce sédentaire qui se plaît de plus en plus dans les villes où les ressources, telles que les déchets, abondent. - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/e022da5f-b31f-4614-8f8b-3af49b9bbe7b/21584-10.06.2021-ITEMA_22661579-2021C40927E0087.mp3" length="3869731" type="audio/mpeg"/>
+<guid isPermaLink="false">e3e26f61-8a36-4cbf-b4e7-6d57bef6feed</guid>
+<pubDate>Thu, 10 Jun 2021 06:06:46 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0087</podcastRF:magnetothequeID>
+<itunes:title>Une bavarde, la pie </itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>Une,bavarde,,la,pie,</itunes:keywords>
+<itunes:subtitle>Une bavarde, la pie </itunes:subtitle>
+<itunes:summary>durée : 00:04:00 - Le Monde vivant - par : Bruno David - Non, la pie ne vole pas et n'est pas plus attirée par les objets brillants que les autres oiseaux. En revanche, il lui arrive de dérober leurs proies à d'autres prédateurs. C'est une espèce sédentaire qui se plaît de plus en plus dans les villes où les ressources, telles que les déchets, abondent. - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:04:00</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>Le blé, un bien si fragile </title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/le-ble-un-bien-si-fragile</link>
+<description>durée : 00:03:34 - Le Monde vivant - par : Bruno David - Le blé, qui remplit le grenier de l'humanité, est avant tout une plante politique. La révolution française en témoigne. Les cours du blé flambent après des années de mauvaises récoltes entrainant des famines. A l'origine, l'éruption d'un volcan islandais qui dérègle le climat à partir de 1783. - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/5957678d-8e48-4b65-94df-3c453a8be250/21584-09.06.2021-ITEMA_22661541-2021C40927E0086.mp3" length="3458071" type="audio/mpeg"/>
+<guid isPermaLink="false">a5ace397-bd93-4428-8665-378701defe95</guid>
+<pubDate>Wed, 09 Jun 2021 06:06:50 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0086</podcastRF:magnetothequeID>
+<itunes:title>Le blé, un bien si fragile </itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>Le,blé,,un,bien,si,fragile,</itunes:keywords>
+<itunes:subtitle>Le blé, un bien si fragile </itunes:subtitle>
+<itunes:summary>durée : 00:03:34 - Le Monde vivant - par : Bruno David - Le blé, qui remplit le grenier de l'humanité, est avant tout une plante politique. La révolution française en témoigne. Les cours du blé flambent après des années de mauvaises récoltes entrainant des famines. A l'origine, l'éruption d'un volcan islandais qui dérègle le climat à partir de 1783. - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:03:34</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>Qui craint le grand méchant loup ? </title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/qui-craint-le-grand-mechant-loup</link>
+<description>durée : 00:03:19 - Le Monde vivant - par : Bruno David - Le loup apparaît comme l'animal prédateur par excellence. S'il a longtemps suscité la peur dans l'imaginaire collectif, celle-ci est largement surfaite. Les actes de prédation du loup contre l'humain n'ont eu lieu qu'à de rares occasions dans des contextes précis. - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/9b8feae7-2968-4856-9eff-149d1b8d0200/21584-08.06.2021-ITEMA_22661496-2021C40927E0085.mp3" length="3214357" type="audio/mpeg"/>
+<guid isPermaLink="false">4be58fe5-89da-4bf3-a4b1-75187bf586e7</guid>
+<pubDate>Tue, 08 Jun 2021 06:06:32 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0085</podcastRF:magnetothequeID>
+<itunes:title>Qui craint le grand méchant loup ? </itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>Qui,craint,le,grand,méchant,loup,?,</itunes:keywords>
+<itunes:subtitle>Qui craint le grand méchant loup ? </itunes:subtitle>
+<itunes:summary>durée : 00:03:19 - Le Monde vivant - par : Bruno David - Le loup apparaît comme l'animal prédateur par excellence. S'il a longtemps suscité la peur dans l'imaginaire collectif, celle-ci est largement surfaite. Les actes de prédation du loup contre l'humain n'ont eu lieu qu'à de rares occasions dans des contextes précis. - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:03:19</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>Il ne fait rien comme les autres, le scorpion</title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/il-ne-fait-rien-comme-les-autres-le-scorpion</link>
+<description>durée : 00:03:34 - Le Monde vivant - par : Bruno David - Avec ses huit pattes, ses pédipalpes, son abdomen qui renferme une glande inoculatrice de venin, le scorpion est un arthropode unique en son genre. Se reproduire est chose risquée pour le mâle qui, une fois sur deux, est mortellement piqué par la femelle. - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/4b0006eb-3a7b-44c7-8554-270a96d7e496/21584-07.06.2021-ITEMA_22661432-2021C40927E0082.mp3" length="3450876" type="audio/mpeg"/>
+<guid isPermaLink="false">2f6ac7ee-b8fb-4317-b46b-bfb3f7b67299</guid>
+<pubDate>Mon, 07 Jun 2021 06:06:42 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0082</podcastRF:magnetothequeID>
+<itunes:title>Il ne fait rien comme les autres, le scorpion</itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>Il,ne,fait,rien,comme,les,autres,,le,scorpion</itunes:keywords>
+<itunes:subtitle>Il ne fait rien comme les autres, le scorpion</itunes:subtitle>
+<itunes:summary>durée : 00:03:34 - Le Monde vivant - par : Bruno David - Avec ses huit pattes, ses pédipalpes, son abdomen qui renferme une glande inoculatrice de venin, le scorpion est un arthropode unique en son genre. Se reproduire est chose risquée pour le mâle qui, une fois sur deux, est mortellement piqué par la femelle. - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:03:34</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>Un mouton, deux moutons, trois moutons</title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/un-mouton-deux-moutons-trois-moutons</link>
+<description>durée : 00:03:24 - Le Monde vivant - par : Bruno David - Symbole de la douceur, le mouton fait partie intégrante des cultures méditerranéennes et moyen-orientales. C'est l'un des premiers animaux domestiqués par l'homme et entretient des rapports étroits avec lui au point de ne quasiment plus exister sous sa forme sauvage. - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/61547f2e-b5ef-458c-a55f-6fc40e277eef/21584-04.06.2021-ITEMA_22689882-2021C40927E0084.mp3" length="3298755" type="audio/mpeg"/>
+<guid isPermaLink="false">37207eda-5543-4114-9122-7b12c896c4bb</guid>
+<pubDate>Fri, 04 Jun 2021 06:06:39 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0084</podcastRF:magnetothequeID>
+<itunes:title>Un mouton, deux moutons, trois moutons</itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>Un,mouton,,deux,moutons,,trois,moutons</itunes:keywords>
+<itunes:subtitle>Un mouton, deux moutons, trois moutons</itunes:subtitle>
+<itunes:summary>durée : 00:03:24 - Le Monde vivant - par : Bruno David - Symbole de la douceur, le mouton fait partie intégrante des cultures méditerranéennes et moyen-orientales. C'est l'un des premiers animaux domestiqués par l'homme et entretient des rapports étroits avec lui au point de ne quasiment plus exister sous sa forme sauvage. - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:03:24</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>Chercher des poux dans les plumes </title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/chercher-des-poux-dans-les-plumes</link>
+<description>durée : 00:03:19 - Le Monde vivant - par : Bruno David - Le pou est le plus vieil ami de l'homme ! Présent dès le Jurassique, il accompagne chaque mammifère et s'est adapté au fil du temps à ses différents hôtes. Aujourd'hui, on observe que le pou peut être grand ou petit et qu'une nouvelle espèce pourrait émerger. - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/ef4f6bd0-f736-4a67-a0d5-446f812d3607/21584-03.06.2021-ITEMA_22688676-2021C40927E0083.mp3" length="3206782" type="audio/mpeg"/>
+<guid isPermaLink="false">9ab7f985-330a-4047-9e88-ec299f40848d</guid>
+<pubDate>Thu, 03 Jun 2021 06:06:32 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0083</podcastRF:magnetothequeID>
+<itunes:title>Chercher des poux dans les plumes </itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>Chercher,des,poux,dans,les,plumes,</itunes:keywords>
+<itunes:subtitle>Chercher des poux dans les plumes </itunes:subtitle>
+<itunes:summary>durée : 00:03:19 - Le Monde vivant - par : Bruno David - Le pou est le plus vieil ami de l'homme ! Présent dès le Jurassique, il accompagne chaque mammifère et s'est adapté au fil du temps à ses différents hôtes. Aujourd'hui, on observe que le pou peut être grand ou petit et qu'une nouvelle espèce pourrait émerger. - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:03:19</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>Le regard du renard</title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/le-regard-du-renard</link>
+<description>durée : 00:02:40 - Le Monde vivant - par : Bruno David - Le regard perçant du renard roux est souvent ce qui nous saisit le plus lorsque nous le croisons. Peut-être parce que nous y décelons sa ruse et sa finesse. Et ce n'est pas qu'une impression : le renard est capable d'effectuer des tâches complexes. - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/31a81545-a554-4dba-ae24-a24abbf856b8/21584-02.06.2021-ITEMA_22687438-2020C40927E0123.mp3" length="2593601" type="audio/mpeg"/>
+<guid isPermaLink="false">496c3aa2-4899-4ab9-91b3-577d7545fb13</guid>
+<pubDate>Wed, 02 Jun 2021 06:05:55 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2020C40927E0123</podcastRF:magnetothequeID>
+<itunes:title>Le regard du renard</itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>Le,regard,du,renard</itunes:keywords>
+<itunes:subtitle>Le regard du renard</itunes:subtitle>
+<itunes:summary>durée : 00:02:40 - Le Monde vivant - par : Bruno David - Le regard perçant du renard roux est souvent ce qui nous saisit le plus lorsque nous le croisons. Peut-être parce que nous y décelons sa ruse et sa finesse. Et ce n'est pas qu'une impression : le renard est capable d'effectuer des tâches complexes. - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:02:40</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>La cigale n'est pas une paresseuse</title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/la-cigale-nest-pas-une-paresseuse</link>
+<description>durée : 00:03:28 - Le Monde vivant - par : Bruno David - Le chant des cigales est dû à la déformation des cymbales, sorte de petits disques bombés connectés à des muscles puissants que l'on trouve à l'arrière des pattes postérieures de l'insecte. Cette déformation intervient à un rythme de 400 fois par seconde. Alors paresseuse la cigale ? - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/87c082ae-79ed-4783-8f6b-57c01d0e1530/21584-01.06.2021-ITEMA_22686121-2021C40927E0081.mp3" length="3363569" type="audio/mpeg"/>
+<guid isPermaLink="false">893ab45a-d2e6-4b43-b585-9e08d826cbd6</guid>
+<pubDate>Tue, 01 Jun 2021 06:06:44 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0081</podcastRF:magnetothequeID>
+<itunes:title>La cigale n'est pas une paresseuse</itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>La,cigale,n'est,pas,une,paresseuse</itunes:keywords>
+<itunes:subtitle>La cigale n'est pas une paresseuse</itunes:subtitle>
+<itunes:summary>durée : 00:03:28 - Le Monde vivant - par : Bruno David - Le chant des cigales est dû à la déformation des cymbales, sorte de petits disques bombés connectés à des muscles puissants que l'on trouve à l'arrière des pattes postérieures de l'insecte. Cette déformation intervient à un rythme de 400 fois par seconde. Alors paresseuse la cigale ? - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:03:28</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>Il a des grands pieds, le kangourou </title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/il-a-des-grands-pieds-le-kangourou</link>
+<description>durée : 00:03:47 - Le Monde vivant - par : Bruno David - Si le kangourou avait la taille d'un homme, il chausserait du 60 environ. Avec ses pattes puissantes et un tendon d'Achille faisant office de ressort, le kangourou peut faire des bonds de 13 mètres de longueur et 3,50 mètres de hauteur. Un double champion olympique ! - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/924fc341-e950-4ef1-919c-43e2d7093763/21584-31.05.2021-ITEMA_22684904-2021C40927E0080.mp3" length="3664886" type="audio/mpeg"/>
+<guid isPermaLink="false">241b8266-7ca6-407d-80cb-19856f1f0742</guid>
+<pubDate>Mon, 31 May 2021 06:07:00 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0080</podcastRF:magnetothequeID>
+<itunes:title>Il a des grands pieds, le kangourou </itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>Il,a,des,grands,pieds,,le,kangourou,</itunes:keywords>
+<itunes:subtitle>Il a des grands pieds, le kangourou </itunes:subtitle>
+<itunes:summary>durée : 00:03:47 - Le Monde vivant - par : Bruno David - Si le kangourou avait la taille d'un homme, il chausserait du 60 environ. Avec ses pattes puissantes et un tendon d'Achille faisant office de ressort, le kangourou peut faire des bonds de 13 mètres de longueur et 3,50 mètres de hauteur. Un double champion olympique ! - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:03:47</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>Au cœur des baleines</title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/au-coeur-des-baleines</link>
+<description>durée : 00:03:37 - Le Monde vivant - par : Bruno David - Le gigantisme de la baleine a de tout temps fasciné les hommes. A tel point que lorsqu'une baleine, un rorqual commun, s'échoue sur une plage du Calvados en 1893, le propriétaire d'un casino décide de préparer la peau pour en faire un théâtre pouvant accueillir jusqu'à une centaine de spectateurs. - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/a6da4954-4e73-4064-a37c-747bb52984c6/21584-28.05.2021-ITEMA_22682646-2021C40927E0079.mp3" length="3507411" type="audio/mpeg"/>
+<guid isPermaLink="false">a5140b45-f58b-4f83-b141-f20868903be9</guid>
+<pubDate>Fri, 28 May 2021 06:06:52 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0079</podcastRF:magnetothequeID>
+<itunes:title>Au cœur des baleines</itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>Au,cœur,des,baleines</itunes:keywords>
+<itunes:subtitle>Au cœur des baleines</itunes:subtitle>
+<itunes:summary>durée : 00:03:37 - Le Monde vivant - par : Bruno David - Le gigantisme de la baleine a de tout temps fasciné les hommes. A tel point que lorsqu'une baleine, un rorqual commun, s'échoue sur une plage du Calvados en 1893, le propriétaire d'un casino décide de préparer la peau pour en faire un théâtre pouvant accueillir jusqu'à une centaine de spectateurs. - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:03:37</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>La bataille des lits : les punaises</title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/la-bataille-des-lits-les-punaises</link>
+<description>durée : 00:03:33 - Le Monde vivant - par : Bruno David - Elle est la hantise dans les immeubles, les hôpitaux, les hôtels... la punaise de lit, cet insecte qui se nourrit de sang se serait adapté à l'homme il y a 40 000 ans. Si nous l'avons oubliée un temps grâce à la chimie, des phénomènes de résistance apparaissent désormais. - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/05df81e9-99f4-42c8-b045-29affb756ff9/21584-27.05.2021-ITEMA_22681466-2021C40927E0078.mp3" length="3433790" type="audio/mpeg"/>
+<guid isPermaLink="false">9f831d96-298b-4157-badc-64e8068cb00d</guid>
+<pubDate>Thu, 27 May 2021 06:06:46 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0078</podcastRF:magnetothequeID>
+<itunes:title>La bataille des lits : les punaises</itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>La,bataille,des,lits,:,les,punaises</itunes:keywords>
+<itunes:subtitle>La bataille des lits : les punaises</itunes:subtitle>
+<itunes:summary>durée : 00:03:33 - Le Monde vivant - par : Bruno David - Elle est la hantise dans les immeubles, les hôpitaux, les hôtels... la punaise de lit, cet insecte qui se nourrit de sang se serait adapté à l'homme il y a 40 000 ans. Si nous l'avons oubliée un temps grâce à la chimie, des phénomènes de résistance apparaissent désormais. - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:03:33</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>La frite, la meilleure expression de la pomme de terre</title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/la-frite-la-meilleure-expression-de-la-pomme-de-terre</link>
+<description>durée : 00:03:27 - Le Monde vivant - par : Bruno David - Moules-frites, Fish and Chips, steak-frites...11 millions de tonnes de frites sont consommées chaque année dans le monde. D'où nous vient cette façon de cuisiner la pomme de terre ? La réponse est loin d'être tranchée. - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/9eecd586-cf64-4d1e-be5a-4c2130b36a9e/21584-26.05.2021-ITEMA_22680453-2021C40927E0077.mp3" length="3337987" type="audio/mpeg"/>
+<guid isPermaLink="false">6ae0d630-cae6-4f9a-89ad-1e366ff6dca6</guid>
+<pubDate>Wed, 26 May 2021 06:06:26 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0077</podcastRF:magnetothequeID>
+<itunes:title>La frite, la meilleure expression de la pomme de terre</itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>La,frite,,la,meilleure,expression,de,la,pomme,de,terre</itunes:keywords>
+<itunes:subtitle>La frite, la meilleure expression de la pomme de terre</itunes:subtitle>
+<itunes:summary>durée : 00:03:27 - Le Monde vivant - par : Bruno David - Moules-frites, Fish and Chips, steak-frites...11 millions de tonnes de frites sont consommées chaque année dans le monde. D'où nous vient cette façon de cuisiner la pomme de terre ? La réponse est loin d'être tranchée. - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:03:27</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>Une belle criminelle, la mante religieuse</title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/une-belle-criminelle-la-mante-religieuse</link>
+<description>durée : 00:03:33 - Le Monde vivant - par : Bruno David - Les pattes de la mante religieuse n'ont rien d'implorant. C'est là une arme redoutable pour attraper ses proies, mais aussi, parfois, pour arracher la tête du mâle durant l'accouplement. Ce sacrifice n'est pas nécessaire à la reproduction, mais permet à la ponte d'œufs d'être plus abondante. - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/eea8a5e9-8ca9-4d08-8c51-64291f6cc6eb/21584-25.05.2021-ITEMA_22679357-2021C40927E0076.mp3" length="3436762" type="audio/mpeg"/>
+<guid isPermaLink="false">bad95978-141c-4d6d-b37b-f9a2c26e4086</guid>
+<pubDate>Tue, 25 May 2021 06:06:46 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0076</podcastRF:magnetothequeID>
+<itunes:title>Une belle criminelle, la mante religieuse</itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>Une,belle,criminelle,,la,mante,religieuse</itunes:keywords>
+<itunes:subtitle>Une belle criminelle, la mante religieuse</itunes:subtitle>
+<itunes:summary>durée : 00:03:33 - Le Monde vivant - par : Bruno David - Les pattes de la mante religieuse n'ont rien d'implorant. C'est là une arme redoutable pour attraper ses proies, mais aussi, parfois, pour arracher la tête du mâle durant l'accouplement. Ce sacrifice n'est pas nécessaire à la reproduction, mais permet à la ponte d'œufs d'être plus abondante. - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:03:33</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>Furet ou putois ?</title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/furet-ou-putois</link>
+<description>durée : 00:03:15 - Le Monde vivant - par : Bruno David - Le furet est une sous-espèce albinos du putois sauvage et contrairement à ce dernier, il est exclusivement domestique. "Mustela putorius furo" est un animal de compagnie depuis le 19e siècle et se place aujourd'hui sur la 3e marche du podium des animaux les plus appréciés. - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/323fe33c-d873-42ae-8f59-8c8ce450289e/21584-24.05.2021-ITEMA_22678417-2021C40927E0022.mp3" length="3151205" type="audio/mpeg"/>
+<guid isPermaLink="false">4b22f9d5-1030-41eb-9714-14efb045a133</guid>
+<pubDate>Mon, 24 May 2021 06:06:31 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0022</podcastRF:magnetothequeID>
+<itunes:title>Furet ou putois ?</itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>Furet,ou,putois,?</itunes:keywords>
+<itunes:subtitle>Furet ou putois ?</itunes:subtitle>
+<itunes:summary>durée : 00:03:15 - Le Monde vivant - par : Bruno David - Le furet est une sous-espèce albinos du putois sauvage et contrairement à ce dernier, il est exclusivement domestique. "Mustela putorius furo" est un animal de compagnie depuis le 19e siècle et se place aujourd'hui sur la 3e marche du podium des animaux les plus appréciés. - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:03:15</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>Une feuille pudique, celle de la vigne</title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/une-feuille-pudique-celle-de-la-vigne</link>
+<description>durée : 00:03:22 - Le Monde vivant - par : Bruno David - A l'état sauvage, la vigne pousse dans les forêts en bordure des cours d'eau. Pour la version domestiquée "vitis vinifera", il existe 6000 cépages qui sont le résultat de siècles de sélections humaines. La domestication de cette liane arbustive remonte à 8000 ans. - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/683f7fc8-0eeb-412b-9ed8-c93366d1f653/21584-21.05.2021-ITEMA_22676700-2021C40927E0074.mp3" length="3268269" type="audio/mpeg"/>
+<guid isPermaLink="false">dea31934-c2ab-4f56-a010-fd5a832339e3</guid>
+<pubDate>Fri, 21 May 2021 06:06:37 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0074</podcastRF:magnetothequeID>
+<itunes:title>Une feuille pudique, celle de la vigne</itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>Une,feuille,pudique,,celle,de,la,vigne</itunes:keywords>
+<itunes:subtitle>Une feuille pudique, celle de la vigne</itunes:subtitle>
+<itunes:summary>durée : 00:03:22 - Le Monde vivant - par : Bruno David - A l'état sauvage, la vigne pousse dans les forêts en bordure des cours d'eau. Pour la version domestiquée "vitis vinifera", il existe 6000 cépages qui sont le résultat de siècles de sélections humaines. La domestication de cette liane arbustive remonte à 8000 ans. - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:03:22</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>Des petites cellules qui ont les couleurs</title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/des-petites-cellules-qui-ont-les-couleurs</link>
+<description>durée : 00:03:24 - Le Monde vivant - par : Bruno David - La vision des êtres humains couvrent la partie dite visible du spectre émis par le soleil. Si nous percevons mieux les couleurs que les chiens, les chats ou les bovins, nous sommes en revanche battus par les oiseaux qui, eux, captent les ultraviolets. - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/15fd19ab-9d84-44bb-a102-34a8d5f42ff9/21584-20.05.2021-ITEMA_22676003-2021C40927E0073.mp3" length="3287051" type="audio/mpeg"/>
+<guid isPermaLink="false">08956c34-76ee-4553-aa29-add162916188</guid>
+<pubDate>Thu, 20 May 2021 06:06:38 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0073</podcastRF:magnetothequeID>
+<itunes:title>Des petites cellules qui ont les couleurs</itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>Des,petites,cellules,qui,ont,les,couleurs</itunes:keywords>
+<itunes:subtitle>Des petites cellules qui ont les couleurs</itunes:subtitle>
+<itunes:summary>durée : 00:03:24 - Le Monde vivant - par : Bruno David - La vision des êtres humains couvrent la partie dite visible du spectre émis par le soleil. Si nous percevons mieux les couleurs que les chiens, les chats ou les bovins, nous sommes en revanche battus par les oiseaux qui, eux, captent les ultraviolets. - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:03:24</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>Une source d'inventions, le gecko</title>
+<link>https://www.franceculture.fr/emissions/le-monde-vivant/une-source-inventions-gecko</link>
+<description>durée : 00:03:32 - Le Monde vivant - par : Bruno David - Le gecko est un grand lézard de 35 centimètres qui vit en Asie du sud-est. Sa capacité à adhérer aux surfaces verticales, même en cas de vents puissants, ou ses doigts autonettoyants sont sources d'inspiration pour les ingénieurs. - réalisation : Charlotte Roux </description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<category>Science Nature</category>
+<enclosure url="https://rf.proxycast.org/1e232abb-d09f-4dd7-8a49-0fad501061f5/21584-19.05.2021-ITEMA_22675283-2021C40927E0072.mp3" length="3414475" type="audio/mpeg"/>
+<guid isPermaLink="false">fe4a2acd-f242-422a-885d-1b7594fe363a</guid>
+<pubDate>Wed, 19 May 2021 06:06:46 +0200</pubDate>
+<podcastRF:businessReference>40927</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2021C40927E0072</podcastRF:magnetothequeID>
+<itunes:title>Une source d'inventions, le gecko</itunes:title>
+<itunes:author>France Culture</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>Une,source,d'inventions,,le,gecko</itunes:keywords>
+<itunes:subtitle>Une source d'inventions, le gecko</itunes:subtitle>
+<itunes:summary>durée : 00:03:32 - Le Monde vivant - par : Bruno David - Le gecko est un grand lézard de 35 centimètres qui vit en Asie du sud-est. Sa capacité à adhérer aux surfaces verticales, même en cas de vents puissants, ou ses doigts autonettoyants sont sources d'inspiration pour les ingénieurs. - réalisation : Charlotte Roux </itunes:summary>
+<itunes:duration>00:03:32</itunes:duration>
+<googleplay:block>yes</googleplay:block>
+</item>
+<item>
+<title>Retrouvez tous les épisodes sur l’appli Radio France</title>
+<link>https://www.radiofrance.fr/application-mobile-radio-france</link>
+<description>Retrouvez tous les épisodes sur l’appli Radio France</description>
+<author>podcast@radiofrance.com (Radio France)</author>
+<enclosure url="https://media.radiofrance-podcast.net/podcast09/autopromo_replay_franceculture.mp3" length="0" type="audio/mpeg"/>
+<guid isPermaLink="true">https://media.radiofrance-podcast.net/podcast09/autopromo_replay_franceculture.mp3</guid>
+<pubDate>Thu, 20 Aug 2020 23:59:59 +0200</pubDate>
+<itunes:title>Retrouvez tous les épisodes sur l’appli Radio France</itunes:title>
+<itunes:author>Radio France</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>Retrouvez tous les épisodes sur l’appli Radio France</itunes:subtitle>
+<itunes:summary>Retrouvez tous les épisodes sur l’appli Radio France</itunes:summary>
+<itunes:duration>00:00:12</itunes:duration>
+<itunes:image href="https://cdn.radiofrance.fr/s3/cruiser-production/2021/06/78e817b5-7bfc-4301-925d-abea3acc8dae/1400x1400_radiofrance-jpg.jpg"/>
+</item>
+</channel>
+</rss>
